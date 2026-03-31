@@ -11,6 +11,8 @@ Skills are reusable instructions that teach Claude Code how to perform specific 
 | Skill | Description |
 |-------|-------------|
 | [Probing Measurements](skills/probing-measurements.md) | Run active Internet measurements using the nxthdr CLI and analyze results from ClickHouse |
+| [Peering Experiments](skills/peering-experiments.md) | Run BGP peering experiments using PeerLab and analyze routing data |
+| [Data Analysis](skills/data-analysis.md) | Query and analyze nxthdr open datasets (probing, BGP, traffic) in ClickHouse |
 
 ## Usage
 
