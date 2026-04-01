@@ -101,6 +101,7 @@ make bird-protocols    # BGP session details
 make bird-routes-count # Number of received IPv6 routes
 make bird-exports      # Routes being advertised to peers
 make bird-prefixes     # Your configured static prefixes
+make ris-visibility    # Check prefix visibility on RIPE RIS route collectors
 ```
 
 ## Step 5: Routing Configuration
